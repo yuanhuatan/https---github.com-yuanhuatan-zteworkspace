@@ -1,0 +1,41 @@
+Office 2016 for Mac 64位 15.26.0
+
+
+本帖最后由 hermit01 于 2016-9-15 00:07 编辑
+
+
+9月14日官方正式发布64位正式版（版本号：15.26.0 [160910] 64-bit）
+本贴提供的下载地址全部为官方正式版下载地址，请放心下载~
+
+Release Date	Version	Build Date	KB Article / Fix	Arch	Suite Download	Word Update	Excel Update	PowerPoint Update	Outlook Update	OneNote Update	Collateral
+09/13/16	15.26.0	160910	3186807	64-bit	
+Download
+Download
+Download
+Download
+Download
+Download
+Download
+
+
+
+>> Microsoft Office for Mac 15.26.0 (64bit) (正式版) 
+
+Microsoft Office Word 15.26.0: 
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_15.26.0_160910_Updater.pkg
+
+
+Microsoft Office Excel 15.26.0: 
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_15.26.0_160910_Updater.pkg
+
+
+Microsoft Office PowerPoint 15.26.0: 
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_15.26.0_160910_Updater.pkg
+
+
+Microsoft Office Outlook 15.26.0: 
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_15.26.0_160910_Updater.pkg
+
+
+Microsoft Office OneNote 15.26.0: 
+https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_15.26.0_160910_Updater.pkg
